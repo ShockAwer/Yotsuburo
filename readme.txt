@@ -1,3 +1,4 @@
+** Will probably be replaced by momoha soon **
 Futallaby 040103
 
 For setup instructions and latest version, please visit:
